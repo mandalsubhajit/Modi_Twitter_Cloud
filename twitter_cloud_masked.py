@@ -12,7 +12,7 @@ from PIL import Image
 from wordcloud import WordCloud, STOPWORDS
 import numpy as np
 
-os.chdir('C:\\Users\\subhajit\\Desktop\\Modi Twitter Cloud')
+os.chdir('Path/to/this/folder')
 
 #-----------------------------------------------------------------------
 # load our API credentials 
